@@ -601,6 +601,11 @@ body{
     width: 100%;
     border-radius: .5rem;
     object-fit: cover;
+    transition: all ease .2s;
+}
+
+.blogs .box-container .box:hover img{
+    scale: 1.1;
 }
 .blogs .box-container .box .info{
     margin: 1.5rem 0;
