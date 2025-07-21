@@ -1,0 +1,1 @@
+Credify is a fully responsive credit card website built using HTML, CSS, and JavaScript. The site features a real-time interactive credit card preview that updates as users input details like card number, name, expiry, and CVV. Designed to replicate modern credit card UI behavior, it ensures an intuitive and engaging user experience across all device sizes.
